@@ -1,0 +1,27 @@
+{
+	"schemaVersion": 1,
+	"id": "whales",
+	"version": "${version}",
+	"name": "Whales",
+	"description": "Киты с ракушками, скелеты китов на дне океана, ракушечные шипы и редстоун-ловушки.",
+	"authors": [
+		"Interpretation Studio"
+	],
+	"license": "All-Rights-Reserved",
+	"icon": "assets/whales/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"studio.interpretation.whales.WhalesMod"
+		],
+		"client": [
+			"studio.interpretation.whales.client.WhalesClient"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.20.1",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

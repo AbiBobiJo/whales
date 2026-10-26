@@ -1,0 +1,8 @@
+{
+  "entity.whales.whale": "Кит",
+  "item.whales.barnacle": "Ракушка",
+  "item.whales.whale_spawn_egg": "Яйцо призыва кита",
+  "block.whales.barnacle_spike": "Ракушечный шип",
+  "death.attack.whales.barnacle_spike": "%1$s напоролся на ракушечный шип",
+  "death.attack.whales.barnacle_spike.player": "%1$s напоролся на ракушечный шип, спасаясь от %2$s"
+}

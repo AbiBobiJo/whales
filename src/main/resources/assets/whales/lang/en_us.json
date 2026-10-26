@@ -1,0 +1,8 @@
+{
+  "entity.whales.whale": "Whale",
+  "item.whales.barnacle": "Barnacle",
+  "item.whales.whale_spawn_egg": "Whale Spawn Egg",
+  "block.whales.barnacle_spike": "Barnacle Spike",
+  "death.attack.whales.barnacle_spike": "%1$s was impaled by a barnacle spike",
+  "death.attack.whales.barnacle_spike.player": "%1$s was impaled by a barnacle spike while fighting %2$s"
+}

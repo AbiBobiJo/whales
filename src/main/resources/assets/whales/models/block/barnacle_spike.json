@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "whales:block/barnacle_spike_top",
+    "side": "whales:block/barnacle_spike_side",
+    "bottom": "whales:block/barnacle_spike_bottom",
+    "particle": "whales:block/barnacle_spike_side"
+  }
+}

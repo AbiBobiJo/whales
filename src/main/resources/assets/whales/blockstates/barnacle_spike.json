@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "powered=false": { "model": "whales:block/barnacle_spike" },
+    "powered=true": { "model": "whales:block/barnacle_spike_extended" }
+  }
+}

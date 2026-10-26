@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "whales:item/whale_spawn_egg"
+  }
+}

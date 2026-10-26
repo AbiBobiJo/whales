@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "B": "whales:barnacle",
+    "I": "minecraft:iron_ingot",
+    "R": "minecraft:redstone"
+  },
+  "pattern": [
+    "B B",
+    "BIB",
+    "BRB"
+  ],
+  "result": {
+    "count": 2,
+    "id": "whales:barnacle_spike"
+  }
+}
